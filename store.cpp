@@ -1,8 +1,7 @@
-// HAREEM RAZA (22100277). TAHA ASIM (22100264). SYED MUHAMMED DANIYAL ZAIDI (22100238).
 #include <iostream>			   // For Input/Output
-#include <string>              // For string functions
-#include <fstream>             // For file reading
-#include <vector>              // For functions related to vectors
+#include <string>              		   // For string functions
+#include <fstream>             		   // For file reading
+#include <vector>             		   // For functions related to vectors
 #include <time.h>			   // For time function (For Random Number Seeding)  
 #include <stdlib.h>			   // For Rand Generation
 #include <cstdio>			   // For Remove and other file related functions
